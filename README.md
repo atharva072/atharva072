@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atharva072
-- 👀 I’m interested in Software Development (Web or Android) and also Salesforce
+- 👀 I’m interested in Software Development, Salesforce
 - 📫 Reach me on --> LinkedIn : https://www.linkedin.com/in/atharva-sadavarte/
 
 <!---
