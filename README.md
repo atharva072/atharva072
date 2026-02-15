@@ -1,5 +1,5 @@
 Hi, I’m Atharva
-I’m interested in Software Development, System Design, Data Structures and Algorithms, Salesforce Development.
+- I’m interested in Software Development, System Design, Data Structures and Algorithms, Salesforce Development.
 
  - LinkedIn : https://www.linkedin.com/in/atharva-sadavarte/
  - Trailhead : https://www.salesforce.com/trailblazer/atharvasadavarte
